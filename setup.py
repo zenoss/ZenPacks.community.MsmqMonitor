@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.MsmqMonitor"
 VERSION = "1.0"
 AUTHOR = "Justin Shepard"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.MsmqMonitor']
 INSTALL_REQUIRES = ['ZenPacks.community.deviceAdvDetail>=1.2']
